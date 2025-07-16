@@ -6,7 +6,7 @@
   "author": "kvlinden",
   "license": "ISC",
   "engines": {
-    "node": "18.x"
+    "node": "20.9.0"
   },
   "scripts": {
     "start": "node monopolyService.js",
